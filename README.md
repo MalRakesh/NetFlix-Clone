@@ -43,6 +43,8 @@
 </div>
 ###
 
+![MalRakesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MalRakesh&theme=dark&hide_border=true)
+
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=MalRakesh&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/1f3e69af5ee2b16f270a2d05abcb5755013c890966dbed13c7cfb1708bbe03df/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44344430334151487a7a6a63687a5964544b412f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3430305f3430302f302f313730373430383935373836353f653d3137323438383936303026763d6265746126743d43634649364d5278526e58433733304a7368796249732d5469566e43797369302d3244442d484b774f7273"  />
